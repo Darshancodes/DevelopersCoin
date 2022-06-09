@@ -1,3 +1,7 @@
+# DevelopersCoin
+
+This is a Crypto Coin developed using Blockchain, Solidity, Hardhat, and Uniswap. You can use this Developer's Coin for transaction and swaping between ETH and DC also some other coins, etc.
+
 # Basic Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
